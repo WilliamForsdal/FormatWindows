@@ -1,4 +1,4 @@
-# Prepare
+### Prepare
 Before reinstalling windows the following should be considered:
 
 1. Drivers and other software
@@ -13,7 +13,7 @@ Before reinstalling windows the following should be considered:
 4. Disconnect hard drives
   Disconnect all hard drives except the one that windows will be installed on. This eliminates the risk of formatting the wrong hard drive, and also makes it impossible for the windows installer to install files on other disks during the setup.
   
-# Install windows
+### Install windows
 When the preparation is finished install windows on the selected hard drive.
 
 #

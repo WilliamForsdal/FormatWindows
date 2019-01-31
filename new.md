@@ -50,5 +50,5 @@ Install the software you want to have installed.
    
    
 * Add programs to start at Startup
-
-  C:\Users\<Username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+  Adding shortcuts to this path: C:\Users\<Username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+  Will make them 

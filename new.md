@@ -4,6 +4,10 @@ Before reinstalling windows the following should be considered:
 1. Drivers and other software
    
    Download all drivers and software needed before reinstalling windows. This makes the process afterward easier.
+   * [Ninite](https://ninite.com/)
+   * [Speedcrunch](http://www.speedcrunch.org/)
+   * [ConEmu - better windows terminal](https://conemu.github.io/)
+   * [Flux](https://justgetflux.com/)
   
 2. Windows activation
 
@@ -26,12 +30,15 @@ Install the software you want to have installed.
 ### Tweaks
 * Turn off skype ads
 
-   Open the start menu and search for "Internet Options" * go to security, click restricted sites and then sites, block g.msn.com and apps.skype.com
+  Open the start menu and search for "Internet Options" * go to security, click restricted sites and then sites, block g.msn.com and apps.skype.com
 
 * Turn off hotkey for sticky keys
    
-   press shift x5 and turn off sticky keys
+  press shift x5 and turn off sticky keys
    
 * Show file extensions and other explorer stuff
    
-   Open File Explorer and in the upper left corner, select file -> Change folder and search options. Set standard startup folder to This PC * Disable folder history * disable hide extensions for known file types
+  Open File Explorer and in the upper left corner, select file -> Change folder and search options. Set standard startup folder to This PC * Disable folder history * disable hide extensions for known file types
+   
+* Add programs to start at Startup
+  C:\Users\<Username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup

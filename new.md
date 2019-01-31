@@ -28,17 +28,27 @@ When the preparation is finished install windows on the selected hard drive.
 Install the software you want to have installed.
 
 ### Tweaks
+
+* Download [Windows Tweaker](https://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10)
+
+  Great tool for changing many settings in windows.
+
+  
 * Turn off skype ads
 
   Open the start menu and search for "Internet Options" * go to security, click restricted sites and then sites, block g.msn.com and apps.skype.com
 
+  
 * Turn off hotkey for sticky keys
    
   press shift x5 and turn off sticky keys
+   
    
 * Show file extensions and other explorer stuff
    
   Open File Explorer and in the upper left corner, select file -> Change folder and search options. Set standard startup folder to This PC * Disable folder history * disable hide extensions for known file types
    
+   
 * Add programs to start at Startup
+
   C:\Users\<Username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup

@@ -49,6 +49,7 @@ Install the software you want to have installed.
   Open File Explorer and in the upper left corner, select file -> Change folder and search options. Set standard startup folder to This PC * Disable folder history * disable hide extensions for known file types
    
    
-* Add programs to start at Startup
+* Add programs to run at windows startup
   Adding shortcuts to this path: C:\Users\<Username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-  Will make them 
+  
+  makes them run on startup.

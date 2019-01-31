@@ -46,10 +46,39 @@ Install the software you want to have installed.
    
 * Show file extensions and other explorer stuff
    
-  Open File Explorer and in the upper left corner, select file -> Change folder and search options. Set standard startup folder to This PC * Disable folder history * disable hide extensions for known file types
+  Open File Explorer and in the upper left corner, select file -> Change folder and search options. 
+  
+  * Set standard startup folder to This PC. 
+  
+  * Disable folder history
+  
+  * disable hide extensions for known file types
    
    
 * Add programs to run at windows startup
+
   Adding shortcuts to this path: C:\Users\<Username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
   
   makes them run on startup.
+  
+* Set correct locale
+  
+  Go to: Control Panel -> Region -> Administrative -> Change system locale
+  
+  And select the correct one.
+  
+* disable ctrl+shift hotkey that changes input language
+
+  The most annoying hotkey in windows. How do you remove this in latest windows?
+  
+
+  
+  
+  
+
+
+
+
+
+
+

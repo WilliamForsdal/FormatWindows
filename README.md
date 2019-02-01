@@ -36,7 +36,9 @@ Install the software you want to have installed.
   
 ### Turn off skype ads
 
-  Open the start menu and search for "Internet Options" ### go to security, click restricted sites and then sites, block g.msn.com and apps.skype.com
+  Open the start menu and search for "Internet Options" 
+  
+  go to security, click restricted sites and then sites, block g.msn.com and apps.skype.com
 
   
 ### Turn off hotkey for sticky keys

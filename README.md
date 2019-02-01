@@ -52,8 +52,16 @@ Install the software you want to have installed.
   
   * Disable folder history.
   
-  * Switch to the View tab and untick "hide extensions for known file types".
-   
+  Switch to the View tab and:  
+  
+  * Check "Display the full path in the titlebar"
+  
+  * Check "Show hidden files and folders"
+  
+  * untick "Hide empty drives"
+
+  * untick "hide extensions for known file types".
+  
    
 ### Add programs to run at windows startup
 

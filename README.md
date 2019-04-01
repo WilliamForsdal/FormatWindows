@@ -33,6 +33,10 @@ Install the software you want to have installed.
 
   Great tool for changing many settings in windows.
 
+### Turn off windows gaming features
+
+  Go to Settings -> Gaming and disable everything.
+  
   
 ### Turn off skype ads
 

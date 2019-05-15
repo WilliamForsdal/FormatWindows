@@ -139,6 +139,13 @@ Install the software you want to have installed.
   Under "Computer name, domain, and workgroup settings, click "Change settings" (on the right side) and select the "Computer name" tab, and click change on the bottom.
   
   
+### Disable shake to minimize
+  
+  Open the start menu and type "Edit Group Policy".
+  
+  Under "User Configuration -> Administrative Templates -> Desktop" open the "Turn off Aero Shake window minimizing mouse gesture", select Enable, and press OK.
+  
+  
 
 
   
